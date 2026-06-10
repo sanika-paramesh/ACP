@@ -264,3 +264,4 @@ void clear_all_shapes(void) {
     object_count = 0;
     printf("Canvas cleared. All active shapes deleted.\n");
 }
+
